@@ -5,3 +5,6 @@ https://www.figma.com/design/nLCSuj5EGtYOi1OeAgJjVk/Moi-Poezdki?node-id=0%3A1&t=
 
 
 Предоставить два файла: html и css. Интерактив и JS пока не нужен. Оценивать будем качество стилей и соответствие макету.
+
+
+https://dxdzdydxdzdy.github.io/bresler/
